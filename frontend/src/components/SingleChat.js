@@ -274,7 +274,7 @@ const SingleChat = ({ fetchAgain, setFetchAgain }) => {
                 <></>
               )}
               <div className="d-flex">
-                <InputGroup>
+                {/* <InputGroup>
                   <Input
                     variant="filled"
                     bg="#E0E0E0"
@@ -295,7 +295,7 @@ const SingleChat = ({ fetchAgain, setFetchAgain }) => {
                       <ChevronRightIcon style={{fontSize: "2rem"}} />
                     </Button>
                   </InputRightElement>
-                </InputGroup>
+                </InputGroup> */}
               </div>
             </FormControl>
           </Box>
